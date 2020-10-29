@@ -1,0 +1,12 @@
+Proceso de análisis de datos.
+
+#Generar preguntas
+    Hacer preguntas sobre los datos
+
+#Buscar respuestas con EDA
+    Visualizar, transformar, limpiar datos 
+    Cacular promedios, máximos, rangos
+
+#Dar conclusiones
+    Informar resultados
+    Reformular preguntas (nuevo ciclo)
